@@ -28,16 +28,14 @@ This repo contains my answers to the SQL proficiency assessment. Each question h
 ### Question 4 – Estimating Customer Lifetime Value (CLV)  
 - Calculated how long each user has been active (in months).  
 - Counted their transactions and average confirmed deposit amount.  
-- Used a basic CLV formula:  
-  `CLV = (Transactions / Months Active) * 12 * Scaled Avg Amount`  
 - Results are sorted from highest to lowest estimated CLV.
 
 ---
 
 ## Notes  
-- Each query was tested to make sure it runs without errors.  
-- I cleaned the data during the code  
-- The queries are structured for readability and straightforward analysis.
+- I cleaned the data where necessary during each query (e.g., filtered out nulls or invalid records), but I didn’t do general data cleaning like removing duplicates or permanently deleting nulls.  
+
+
 
 
 
