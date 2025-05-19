@@ -1,7 +1,7 @@
 # Adashi_SQL_Assessment
 
 ## Overview  
-This repo contains my answers to the SQL proficiency assessment. Each question has its own query, written with clarity and tested for accuracy. 
+This repo contains my answers to the Adashi_staging SQL proficiency assessment. 
 
 ---
 
